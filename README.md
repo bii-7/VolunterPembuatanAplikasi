@@ -4,6 +4,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan Ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**  
 Berikut daftar Volunter yang diterima:  
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* IKON, [IKON](https://www.youtube.com/c/OfficialYGiKON)
 
 
 
